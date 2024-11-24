@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ball-in-cup.com/sitemap.xml 
